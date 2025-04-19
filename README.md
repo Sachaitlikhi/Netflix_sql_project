@@ -42,7 +42,7 @@ CREATE TABLE netflix
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
-
+```
 
 ### 1. Count the Number of Movies vs TV Shows
 
